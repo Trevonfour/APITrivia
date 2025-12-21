@@ -116,8 +116,4 @@ A API pode ser testada via Postman, Insomnia ou curl.
 Alexandre Silva\
 Desenvolvedor Java / C#
 
-------------------------------------------------------------------------
-
-## 📄 Licença
-
-Projeto educacional e demonstrativo.
+-----------------------------------------------------------------------
