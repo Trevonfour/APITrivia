@@ -98,22 +98,3 @@ spring.jpa.show-sql=true
 ## 🧪 Testes
 
 A API pode ser testada via Postman, Insomnia ou curl.
-
-------------------------------------------------------------------------
-
-## 📈 Evoluções Futuras
-
--   Swagger
--   JWT
--   Testes automatizados
--   Docker
--   CI/CD
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Autor
-
-Alexandre Silva\
-Desenvolvedor Java / C#
-
------------------------------------------------------------------------
