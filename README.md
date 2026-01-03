@@ -1,4 +1,4 @@
-# 🎟️ DesafioTrivia -- API de Venda e Validação de Ingressos
+API de Venda e Validação de Ingressos
 
 API REST desenvolvida em **Java com Spring Boot** para simular o fluxo
 de **compra e validação de ingressos**, aplicando boas práticas de
